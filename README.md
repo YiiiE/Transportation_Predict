@@ -3,7 +3,7 @@
 --
 
 ### Title
-Pennsylvania Vehicle Crash Investigation
+Pennsylvania Vehicle Crash Investigation  
 CMU - 90803 Machine Learning Foundations with Python
 
 ### Authors
