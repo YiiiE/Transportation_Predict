@@ -63,7 +63,7 @@ each year containing a zip file. For each year's data, there are multiple data s
 road information, people involved, etc. We merged different datasets and keep useful variables, and created three individual subsets of the data, 
 each for one of our questions. Each cleaned sub dataset has different target variables and is uploaded in google drive, named as Q1.csv Q2.csv and Q3.csv.
 
-Both our raw and cleaned dataset can be found in our google drive link: https://drive.google.com/drive/u/1/folders/1tfJqkoUoEjmM4jxa5-fLIVgrI2_OSiI0
+
 --
 
 ### Running the Project / Getting Started
