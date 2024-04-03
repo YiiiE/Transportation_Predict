@@ -4,9 +4,9 @@
 
 ### Title
 Pennsylvania Vehicle Crash Investigation
+CMU - 90803 Machine Learning Foundations with Python
 
 ### Authors
-Right after the title, make sure to include the authors of the project. You should include the following:
 
 * Yi Liu
 yiliu2@andrew.cmu.edu
